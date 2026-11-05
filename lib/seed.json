@@ -1,0 +1,36 @@
+[
+  {
+    "id": "portfolio-demo",
+    "name": "DEMO - fictional funding opportunity",
+    "type": "Demo",
+    "topic": "Interface demonstration",
+    "funding": "Portfolio demonstration - fictional example",
+    "url": "https://example.org",
+    "stage": "Otvoren",
+    "groups": [
+      "capacity"
+    ],
+    "orgs": [
+      "dck",
+      "ckrs",
+      "ckfbih",
+      "ckbd"
+    ],
+    "fit": {
+      "dck": 50,
+      "ckrs": 50,
+      "ckfbih": 50,
+      "ckbd": 50
+    },
+    "assessment": "Portfolio demonstration - fictional example",
+    "eligibility": "Portfolio demonstration - fictional example",
+    "noria": false,
+    "deadline": null,
+    "opening": "",
+    "priority": 3,
+    "verifiedAt": "2026-11-05",
+    "sourceNotes": "Portfolio demonstration - fictional example",
+    "joint": true,
+    "projectGuidance": "Fictional portfolio record illustrating how project guidance is displayed. This is not an actual funding opportunity."
+  }
+]
